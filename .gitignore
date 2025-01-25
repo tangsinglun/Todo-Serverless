@@ -22,9 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#Back end only
-/client
-
 #backups
 /backend-v1
 /backend.rar
